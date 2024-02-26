@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "332223683803",
+    "project_id": "comchat-ff8f9",
+    "storage_bucket": "comchat-ff8f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332223683803:android:82349ae74e30a5082e40fe",
+        "android_client_info": {
+          "package_name": "com.commuity_chat.community_chat_forum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332223683803-v1ugoptsd3t7l05io4atdhth8s2t8ob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpaJS019zKtifMsIe25qY13liouJDTEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332223683803-v1ugoptsd3t7l05io4atdhth8s2t8ob1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332223683803-7h8603boolmbl46f345i9cogif49j0a9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.commuitychat.communityChatForum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
